@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /library/files/
+Sitemap: https://makmouk.github.io/sitemap.xml
